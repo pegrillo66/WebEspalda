@@ -1,0 +1,325 @@
+/* MENU CABECERA--------------------------------------------------------------- */
+.cabmenu1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+.cabmenu1:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+.cabmenu2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #000000;
+
+
+}
+.cabmenu2:hover {
+	color: #BACFFF;
+	text-decoration: none;
+
+}
+.cabmenu2-activa {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #274AB3;
+}
+.cabmenu2-activa:hover {
+
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #CCCCCC;
+}
+.submenu-activa {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000094;
+	text-decoration: none;
+	background-color: #EEF3FB;
+	font-weight: bolder;
+
+}
+.submenu:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000094;
+	text-decoration: underline;
+
+}
+.submenu {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000094;
+	text-decoration: none;
+	background-color: #EEF3FB;
+}	
+/* MENU CONTENIDO--------------------------------------------------------------- */
+.menu1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	color: #000094;
+	text-decoration: none;
+}
+.menu1:hover {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.menu1-activo {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.menu1-activo:hover {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999999;
+	text-decoration: none;
+}
+.menu2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: normal;
+	color: #000094;
+	text-decoration: none;
+	background-color: #EAF0FE;
+}
+.menu2:hover {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.menu2-activo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #FF0000;
+	text-decoration: none;
+	background-color: #EAF0FE;
+	font-weight: normal;
+
+}
+.menu2-activo:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999999;
+	text-decoration: none;
+	background-color: #EAF0FE;
+	font-weight: normal;
+
+}
+.casos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	background-color: #EAF0FE;
+}
+.casos-menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	text-decoration: none;
+}
+.casos-menu: hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #666666;
+	text-decoration: none;
+}
+/* PUNTUALES --------------------------------------------------------------- */
+.txt-rojo {
+
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF0000;
+}
+.pie {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.pie:hover {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: underline;
+}
+.patrocinado {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	background-color: #F6F6F7;
+}
+.saltar {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.saltar:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.lineas {
+	background-color: #cccccc;
+}
+/* GENERALES --------------------------------------------------------------- */
+select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	border: 1 solid;
+
+}
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: #396BFF;
+	font-weight: normal;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #3366FF;
+	font-weight: bold;
+	left: 50px;
+}
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #3366FF;
+	font-weight: bold;
+	left: 50px;
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #333333;
+	font-weight: bold;
+	left: 50px;
+	background-color: #eeeeee;
+}
+h5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #666666;
+	font-weight: bold;
+	left: 50px;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000094;
+	text-decoration: none;
+
+}
+a:hover {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000094;
+	text-decoration: underline;
+}
+ul.menu1bullet{
+	list-style-image: url(../imagenes/bullet-menu.gif);
+	list-style-type: none;
+	margin-left: 25px;
+	list-style-position: outside;
+	}
+ul.menu2bullet {
+	list-style-image: url(../imagenes/bullet-cabecera.gif);
+	list-style-type: none;
+	margin-left: 25px;
+	list-style-position: outside;
+}
+ul.submenu1bullet {
+	list-style-type: none;
+	margin-left: 17px;
+	list-style-position: outside;
+	text-decoration: none;
+	list-style-image: url(../imagenes/bullet-submenu.gif);
+}
+caption {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+
+}
+/* SE ENCUENTRA EN... --------------------------------------------------------------- */
+.seencuentraen {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	background-color: #274AB3;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: x-small;
+
+}
+
+.seencuentraen-flecha {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFCC00;
+	font-weight: bold;
+	font-size: small;
+
+}
+
+.seencuentraen:hover {
+
+	color: #FFCC00;
+	text-decoration: none;
+}
+.tabla-contenido {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.seencuentra-enlace {
+
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	text-decoration: none;
+	font-size: x-small;
+}
+.seencuentra-enlace:hover {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	text-decoration: underline;
+	font-size: x-small;
+}
